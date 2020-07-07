@@ -59,3 +59,28 @@ a {
 
 
 
+
+/* second part artboard 2  */
+
+.col-lg-4 {
+    text-align: center;
+}
+
+#colorful {
+    background-image: url("images/fons.png");
+}
+
+
+
+/* third part artboard 3 */
+
+.col-lg-8 {
+    text-align: center;  
+}
+.col-lg-4 {
+    text-align: center;  
+}
+
+
+
+
